@@ -1,0 +1,37 @@
+header{
+    height: 100vh;
+    min-height: 400px;
+    background-size: cover;
+    background-image: url(./images/bg-masthead.jpg);
+}
+.jumbotron{
+    background-color: transparent
+}
+.bg-color{
+    background-color: #64a19d;
+    padding: 1.25rem 2rem;
+    font-size: 80%;
+    letter-spacing: 0.15rem;
+}
+.fond{
+    background-color:rgba(22,22,22,.8);
+
+}
+
+body{
+    font-family: 'Varela Round', sans-serif;
+}
+.titre{
+    font-size: 6.5rem;
+    line-height: 6.5rem;
+    letter-spacing: .8rem;
+}
+
+.coco{
+    color: rgba(255,255,255,.5);
+}
+
+.lien{
+    color: #64a19d;
+    
+}
